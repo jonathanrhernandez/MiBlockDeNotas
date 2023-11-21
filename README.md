@@ -4,7 +4,7 @@ Notas de mi curso de aprendizaje de master en coding
 ## Temario
 
 * Propédeutico; Chat GPT + otras herramientas
-* [Módulo 1: Introducción a la web](temario/modulo-1)
+* [Módulo 1: Introducción a la web](temario/modulo-1.md)
 * Módulo 2: Javascript
 * Módulo 3: Computer science
 * Módulo 4: Javascrip avanzado
